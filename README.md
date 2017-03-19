@@ -1,7 +1,7 @@
 # physicalcomputing
 A repository for the studio prototyping course, it includes resources, sensor manuals, arduino codes and documentation of the final assignment - a rube goldberg machine made of structural and electronical components.
 
-![physicalcomputing](https://github.com/digitalideation/physicalcomputing/blob/master/2017/2017-03-18%2017.05.33.jpg)
+![team_2017](https://github.com/digitalideation/physicalcomputing/blob/master/2017/2017-03-18%2017.05.33.jpg)
 
 # links:
 presentation 2017 video: https://www.facebook.com/hslu.ch/videos/1637362729611935/
