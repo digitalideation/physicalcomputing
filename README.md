@@ -4,5 +4,5 @@ A repository for the studio prototyping course, it includes resources, sensor ma
 ![team_2017](https://github.com/digitalideation/physicalcomputing/blob/master/2017/2017-03-18%2017.05.33.jpg)
 
 # links:
-presentation 2017 video: https://www.facebook.com/hslu.ch/videos/1637362729611935/
-course info and material: https://docs.google.com/document/d/1U9Cv6gGpSYofoBj8cSDvJFm2s000Iq7i7ITtQwkIzkc/edit?usp=sharing
+<p>presentation 2017 video: https://www.facebook.com/hslu.ch/videos/1637362729611935/</p>
+<p>course info and material: https://docs.google.com/document/d/1U9Cv6gGpSYofoBj8cSDvJFm2s000Iq7i7ITtQwkIzkc/edit?usp=sharing</p>
