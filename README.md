@@ -1,4 +1,4 @@
-# physicalcomputing
+# physical computing
 A repository for the studio prototyping course, it includes resources, sensor manuals, arduino codes and documentation of the final assignment - a rube goldberg machine made of structural and electronical components.
 
 ![team_2017](https://github.com/digitalideation/physicalcomputing/blob/master/2017/2017-03-18%2017.05.33.jpg)
