@@ -1,0 +1,59 @@
+#include <Servo.h>
+//Servo
+Servo myServo;
+int pos;
+int pinServo1 = 11;
+boolean inputSignal;
+boolean initializeStart;
+//Startposition
+int startPos = 65;
+int leftPos = 155;
+int rightPos = 0;
+
+
+void setup() {
+  pos = 0;
+  inputSignal = false;
+  initializeStart = true;
+  myServo.attach(pinServo1);
+}
+
+void loop() {
+  if (initializeStart) {
+    myServo.write(65);
+    initializeStart = false;
+    delay(10000);
+  }
+
+  //Turn Left
+  for(pos=startPos; pos <= leftPos; pos-=1) {
+    myServo.write(pos);
+    delay(15);
+  }
+  //Wait 10 seconds
+  delay(10000);
+  //Then turn right
+
+  for(pos = leftPos; pos 
+
+  /*
+    //Turn Right
+    if (inputSignal) {
+    for (pos = 180; pos <= 180; pos -= 1) {
+      myServo.write(pos);
+      delay(15);
+    }
+    }
+    //Turn Left
+    if (initializeStart) {
+    if (!inputSignal) {
+      for (pos = 0; pos <= 180; pos += 1) {
+        myServo.write(pos);
+        delay(15);
+      }
+    }
+    initializeStart = false;
+    }
+  */
+}
+
